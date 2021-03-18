@@ -12,7 +12,7 @@
   <a href="#" class="w3-bar-item w3-button">Our products</a>
   <a href="#" class="w3-bar-item w3-button">Pricing</a>
   <a href="#" class="w3-bar-item w3-button">Our services</a>
-  <a href="#" class="w3-bar-item w3-button">About us</a>
+  <a href="#" class="w3-bar-item w3-button">About </a>
 </div>
 
 <!-- Page Content -->
@@ -40,5 +40,7 @@ function w3_close() {
 }
 </script>
      
+
+
 </body>
 </html> 
